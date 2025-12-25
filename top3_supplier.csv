@@ -1,0 +1,16 @@
+Item_Category,Supplier,category_spend,rank_in_category
+Electronics,Epsilon_Group,1829821.81,1
+Electronics,Beta_Supplies,1706815.4399999997,2
+Electronics,Delta_Logistics,1371011.43,3
+MRO,Epsilon_Group,2092515.3099999996,1
+MRO,Gamma_Co,2031260.8199999998,2
+MRO,Alpha_Inc,1454907.5999999996,3
+"Office Supplies",Beta_Supplies,1687973.22,1
+"Office Supplies",Delta_Logistics,1665286.7499999995,2
+"Office Supplies",Epsilon_Group,1400955.6299999997,3
+Packaging,Gamma_Co,1652089.1200000006,1
+Packaging,Epsilon_Group,1622303.0399999996,2
+Packaging,Beta_Supplies,1100311.32,3
+"Raw Materials",Beta_Supplies,1754098.0299999998,1
+"Raw Materials",Gamma_Co,1508065.49,2
+"Raw Materials",Delta_Logistics,1316536.5999999996,3
